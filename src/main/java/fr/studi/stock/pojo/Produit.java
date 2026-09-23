@@ -10,6 +10,5 @@ public class Produit {
     private String description;
     private Float prix;
     private Integer quantite;
-    private String testgit;
 
 }
